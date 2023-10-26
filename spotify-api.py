@@ -5,8 +5,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from spotipy.oauth2 import SpotifyOAuth
 
 # Assign Spotify API credentials
-client_id = '8a84923ae82f4851ae889cb537f093df'
-client_secret = 'd5f1adf399334538b4c8cabfe67c970b'
+client_id = 'XXXXXXXXXX'
+client_secret = 'XXXXXXXXXXX'
 redirect_uri='http://localhost:3000'
 scope='user-read-recently-played'
 
