@@ -4,6 +4,7 @@ import pandas as pd
 from spotipy.oauth2 import SpotifyOAuth
 
 # Define Spotify API credentials
+# You need to define your own client id and secret. I removed mine for privacy reasons.
 client_id = 'XXXXXXXXXX'
 client_secret = 'XXXXXXXXXXX'
 redirect_uri = 'http://localhost:3000'
